@@ -1,5 +1,5 @@
 # Scrum-TimeboxedEvents-Cheatsheet
-Markdown text sample of Scrum Time-boxed Events to use with dashboard of developer team site
+Markdown text sample of Scrum Time-boxed Events to use with welcome page of developer team site
 
 Scrum events are defined in [Scrum.org Scrum Guide](https://www.scrumguides.org/scrum-guide.html).
 
