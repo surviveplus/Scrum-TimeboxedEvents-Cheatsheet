@@ -1,9 +1,9 @@
 # Scrum-TimeboxedEvents-Cheatsheet
-Markdown text sample of Scrum Time-boxed Events to use with dashboard of developer team site
+Markdown text sample of Scrum Time-boxed Events to use with welcome page of developer team site
 
 Scrum events are defined in [Scrum.org Scrum Guide](https://www.scrumguides.org/scrum-guide.html).
 
-When we create a new developer time site, we want to share these events in dashboard page of the site.
+When we create a new developer team site, we want to share these events in welcome page of the site.
 I always create a markdown file "README.md" in team site and I write this cheat-sheet in the file.
 These are the samples.
 
